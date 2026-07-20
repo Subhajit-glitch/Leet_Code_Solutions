@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
