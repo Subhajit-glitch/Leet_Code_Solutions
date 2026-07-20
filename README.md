@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
