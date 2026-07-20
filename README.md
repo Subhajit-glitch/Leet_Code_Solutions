@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
