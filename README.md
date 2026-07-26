@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -36,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Subhajit-glitch/Leet_Code_Solutions/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
